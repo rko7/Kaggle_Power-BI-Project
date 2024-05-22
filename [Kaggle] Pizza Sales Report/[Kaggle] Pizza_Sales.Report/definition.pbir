@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../[Kaggle] Pizza_Sales.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
